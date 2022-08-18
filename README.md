@@ -1,8 +1,8 @@
 # LatihanAlterra
 
 
-Day 02 
+Day 02  
 LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day2
 
 Day 03
-https://github.com/zaenR/LatihanAlterra/tree/latihan/Day3/IterableMap/src
+LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day3/IterableMap/src
