@@ -9,3 +9,6 @@ LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day3/IterableMap/src
 
 Day 04
 https://github.com/zaenR/LatihanAlterra/tree/latihan/Day4
+
+Day 05
+https://github.com/zaenR/LatihanAlterra/tree/latihan/Day5
