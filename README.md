@@ -7,7 +7,19 @@ Day 03
 LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day3/IterableMap/src
 
 Day 04
-https://github.com/zaenR/LatihanAlterra/tree/latihan/Day4
+LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day4
 
 Day 05
-https://github.com/zaenR/LatihanAlterra/tree/latihan/Day5
+LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day5
+
+Day 06
+LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day6
+
+Day 07
+LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day7
+
+Day 08
+LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day8
+
+Day 09
+LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day9/alterra
