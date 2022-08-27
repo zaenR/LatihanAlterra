@@ -1,9 +1,8 @@
 # LatihanAlterra
 
+Product Controller  CRUD Mapping table product
+![image](https://user-images.githubusercontent.com/108667319/187014640-22855fe5-a19f-45a6-b2fc-316964553949.png)
 
-Day 02  
-LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day2
 
-Day 03
-
-LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day3/IterableMap/src
+Supplier Controller CRUP mapping table supplier
+![image](https://user-images.githubusercontent.com/108667319/187014665-b7c51279-673f-472c-81cc-37629e5d0848.png)
