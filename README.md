@@ -23,3 +23,6 @@ LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day8
 
 Day 09
 LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day9/alterra
+
+Day 10
+https://github.com/zaenR/LatihanAlterra/tree/latihan/Day10
