@@ -25,4 +25,13 @@ Day 09
 LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day9/alterra
 
 Day 10
-https://github.com/zaenR/LatihanAlterra/tree/latihan/Day10
+LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day10
+
+Day 11
+LINK https://github.com/zaenR/LatihanAlterra/tree/main/Day11/alterra
+
+DAY 12
+LINK https://github.com/zaenR/LatihanAlterra/tree/latihan/Day12/websocket
+
+DAY 13
+LINK 
