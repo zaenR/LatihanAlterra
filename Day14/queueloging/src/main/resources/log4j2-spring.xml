@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="debug" name="log-rabbitmq">
+  <Appenders>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} Log RabbitMq %p %m%n"/>
+    </Console>
+
+    <RollingFile name="RollingFile"
+                 filename="./logs/fileLog.log"
+                 filePattern="./logs/$${date:yyyy-MM/fileLog-%d(yyyy-MM-dd HH:mm:ss)-%i.log.gz">
+        <PatternLayout>
+            <pattern>%d %C {1.} {%t} %m%n</pattern>
+        </PatternLayout>        
+        <Policies>
+            <TimeBasedTriggeringPolicy interval="1" modulate="true" />
+            <SizeBasedTriggeringPolicy size="2MB" />
+        </Policies>
+
+    </RollingFile>
+  </Appenders>
+  <Loggers>
+             
+    <Root level="info">
+        <AppenderRef ref="Console"/>
+        <AppenderRef ref="RollingFile"/>
+    </Root>
+    <Root level="WARM">
+        <AppenderRef ref="RollingFile"/>
+    </Root>
+    
+    <Logger name = "com.alterra.queueloging.controllers" level = "WARM"/>
+</Loggers>
+
+</Configuration>
